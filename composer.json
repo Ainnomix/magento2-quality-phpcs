@@ -8,6 +8,12 @@
             "email": "romantomchak@gmail.com"
         }
     ],
+    "repositories": {
+        "magento": {
+            "url": "https://repo.magento.com",
+            "type": "composer"
+        }
+    },
     "description": "PHPCS Coding standards for Magento 2 projects",
     "homepage": "https://github.com/Ainnomix/magento2-quality-phpcs",
     "keywords": [
@@ -17,7 +23,7 @@
         "magento2"
     ],
     "require": {
-        "squizlabs/php_codesniffer": "2.6.*",
+        "squizlabs/php_codesniffer": "^2.6.2|^3.1.0",
         "magento/marketplace-eqp": "^1.0.5"
     }
 }
