@@ -23,7 +23,6 @@
         "magento2"
     ],
     "require": {
-        "squizlabs/php_codesniffer": "^2.6.2|^3.1.0",
-        "magento/marketplace-eqp": "^1.0.5"
+        "squizlabs/php_codesniffer": "^2.6.2|^3.1.0"
     }
 }
