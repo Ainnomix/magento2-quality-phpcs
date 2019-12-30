@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="AinnomixMagento2">
+    <description>Ainnomix Magento 2 coding standard</description>
+
+    <rule ref="Magento2">
+        <exclude name="Magento2.Functions.DiscouragedFunction.Discouraged"/>
+    </rule>
+</ruleset>
